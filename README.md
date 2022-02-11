@@ -66,5 +66,5 @@ The total population in New York city and the population broken down by gender c
 
 The other data we looked at was bike utilization and most popular rental locations.  This helped understand the life span of bikes and when to expect costly repair or replacments.  Bikes in popular destinations can be rotated with bikes from locations with less traffic.  This will balance out the rides per bike to reduce the cost of maintanance and replacement.
 
-Link to Tableau
+Link to Tableau [Link to Tableau](https://prod-useast-a.online.tableau.com/#/site/imarichburg/workbooks/394265?:origin=card_share_link)
 https://prod-useast-a.online.tableau.com/#/site/imarichburg/workbooks/394265?:origin=card_share_link
